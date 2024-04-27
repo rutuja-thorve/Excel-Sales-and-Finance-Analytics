@@ -1,4 +1,4 @@
-#Sales And Financial Report For AtliQ Hardware :
+📈Sales And Financial Report For AtliQ Hardware :
 
 💻AtliQ Business Model :
 It's a Hardware company that sell peripherals 
