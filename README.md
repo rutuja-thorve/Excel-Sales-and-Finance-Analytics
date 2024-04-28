@@ -1,11 +1,11 @@
-📈Sales And Financial Report For AtliQ Hardware :
+##Sales And Financial Report For AtliQ Hardware :
 
-💻AtliQ Business Model :
+###💻AtliQ Business Model :
 It's a Hardware company that sell peripherals 
 like PC,mouse,keyboard, printers to clients across 
 the world.
 
-📊 Sales Report :
+##📊 Sales Report :
 
 📌Purpose of sales analytics  : Empower business to 
 monitor and evaluate their sales activities and 
@@ -20,7 +20,7 @@ discounts, facilitate negotiations with consumers
 and identify potential business expansion opportunity 
 in promising countries.
 
-📊 Financial Report :
+##📊 Financial Report :
 
 📌Purpose of Finance Analytics : Evaluation of
 financial performance, support decision making 
@@ -34,7 +34,7 @@ for budgeting and forecasting.
 
 📎Technical skills:
 
-• Proficiency in ETL methodology (Extract, Transform,Load)
+|1|Proficiency in ETL methodology (Extract, Transform,Load)
 • Skills to generate a data table using Power Query.
 • Ability to derive Fiscal months and Quarter.
 • Establishing data model relationship with Power Pivot.
